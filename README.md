@@ -1,1 +1,1 @@
-# brain-tumer-project
+# brain-tumor-project
